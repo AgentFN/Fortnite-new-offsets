@@ -1,5 +1,5 @@
 # Fortnite-new-offsets
-{Fortnite new offsets https://discord.gg/WCcQqRwNnv}
+{Fortnite new offsets }
 Engine::FortMeatballVehicle::FortMeatballVehicleConfigsClass: 0x13F8
 Engine::FortMeatballVehicleConfigs::BoostMinPushForce: 0x610
 Engine::FortMeatballVehicleConfigs::BoostTopSpeedForceMultiplier: 0x614
