@@ -8,5 +8,6 @@ GetViewPoint = 48 89 5C 24 ? 48 89 74 24 ? 57 48 83 EC 20 48 8B D9 41 8B F0 48 8
 GObjects = 48 8B 0D ? ? ? ? 48 98 4C 8B 04 D1 48 8D 0C 40 49 8D 04 C8 EB ?;
 CalculateProjectionMatrixGivenView = 45 0F 57 C0 45 8B 81;
 LineOfSightTo = 40 55 53 56 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 45 E0 49;
+GetObjectName = 47 65 74 4F 75 74 65 72 4F 62 6A 65 63 74 ? ? 47 65 74 4F 62 6A 65 63 74 4E 61 6D 65 ? ? ?
 //by alex fr#4461
 //discord https://discord.gg/mMkJ9Cugsy
